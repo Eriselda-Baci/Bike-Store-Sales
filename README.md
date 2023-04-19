@@ -21,22 +21,22 @@
 #### The Bike Store Sale should be considered how it can adjust the company's strategies in response to changing market conditions and new information to ensure continued growth and profitability:
 
 
-####- The regression equation can be used to predict the expected profit for a given unit cost. This information can be used to inform pricing strategies and product development decisions.
+#### - The regression equation can be used to predict the expected profit for a given unit cost. This information can be used to inform pricing strategies and product development decisions.
 
 
-####- Cluster analysis can optimize product pricing strategy by segmenting products into groups based on unit cost and profit.
+#### - Cluster analysis can optimize product pricing strategy by segmenting products into groups based on unit cost and profit.
 
 
-####-Inventory management can be improved by focusing on high-profit margin products and adjusting inventory levels accordingly.
+#### -Inventory management can be improved by focusing on high-profit margin products and adjusting inventory levels accordingly.
 
 
 ####-Marketing strategy can be tailored to different customer groups based on buying behavior and preferences identified through clustering analysis, leading to increased profits over time.
 
 
-####-The forecast suggests that the company may need to adjust its pricing strategy and/or cost structure to maintain profitability in the face of decreasing Unit Costs. 
+#### -The forecast suggests that the company may need to adjust its pricing strategy and/or cost structure to maintain profitability in the face of decreasing Unit Costs. 
 
 
-####- Alternatively, the company may need to explore opportunities to increase sales volume to offset the decrease in Profit.
+#### - Alternatively, the company may need to explore opportunities to increase sales volume to offset the decrease in Profit.
 
 
 
@@ -44,17 +44,17 @@
 ## Limitations of the case study:
 
 
-####- There weren't enough data points to yield a highly significant result. 
-####- The data contained a limited number of variables upon which to conduct the analysis. 
-####-A dataset up to date will be more accurately for forecasting and analysis itself.
+#### - There weren't enough data points to yield a highly significant result. 
+#### - The data contained a limited number of variables upon which to conduct the analysis. 
+#### -A dataset up to date will be more accurately for forecasting and analysis itself.
 
 
 ## Next steps: 
 
 
-####- Gather more data points for these variables.
-####- Run a classification algorithm to see whether we can predict Profit based on the labels we created.
-####- Analyze the impact of additional variables on the Unit Cost of products.
+#### - Gather more data points for these variables.
+#### - Run a classification algorithm to see whether we can predict Profit based on the labels we created.
+#### - Analyze the impact of additional variables on the Unit Cost of products.
 
 ## Data Set
 ##### The data set contains 112036 rows and 17 columns. Full data set: [Bike Store Sales](https://www.kaggle.com/datasets/sadiqshah/bike-sales-in-europe!)
